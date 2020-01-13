@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="Label" type="Label"]
+margin_left = 246.775
+margin_top = 104.358
+margin_right = 322.775
+margin_bottom = 135.358
+text = "Peepee Poo
+poo"
